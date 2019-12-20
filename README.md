@@ -1,4 +1,4 @@
-# MyAncestralSpectrum谱
+# MyAncestralSpectrum
 我的家庭祖谱 my ancestor tree of my family 
 
 
