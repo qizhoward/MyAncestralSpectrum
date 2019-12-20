@@ -1,6 +1,6 @@
 # MyAncestralSpectrum
-我的家庭祖谱 my ancestor tree of my family 
-
+my ancestor tree of my family 
+我的家庭祖谱
 
           note
           笔记本
