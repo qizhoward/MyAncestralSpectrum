@@ -87,3 +87,5 @@ my ancestor tree of my family
                     　　　宁王 
                     　　　都比我大多了
                        
+                       偶尔日常重大事情用朕字
+                       其他写法用法均隐藏
