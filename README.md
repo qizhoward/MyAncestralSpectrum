@@ -172,6 +172,8 @@ my ancestor tree of my family
                                                      |阿夸等百年
                                                      ｜达芬鱼
                                                      |我都不知道改变历史会咋办
+                                                     ｜371
+                                                     ｜376
                                                      ｜
                                                   　 ｜
                                                      |
