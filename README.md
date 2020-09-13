@@ -193,6 +193,9 @@ my ancestor tree of my family
                                                      ｜右耳14
                                                      ｜眼镜笔主板橡皮
                                                      ｜
+                                                     ｜杨氏无知,则避之
+                                                     ｜
+                                                     ｜
                                                   　 ｜
                                                      |
 
