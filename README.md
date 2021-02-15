@@ -215,6 +215,9 @@ my ancestor tree of my family
                                                      |
                                                      |又多一个人习惯了昏睡
                                                      |
+                                                     |毛泽东 江泽民 温家宝 胡锦涛 习近平
+                                                     |
+                                                     |
                                                      |
                                                      |
                                                      |
