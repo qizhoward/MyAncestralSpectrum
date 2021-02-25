@@ -217,8 +217,11 @@ my ancestor tree of my family
                                                      |
                                                      |毛泽东 江泽民 温家宝 胡锦涛 习近平
                                                      |
-                                                     |
-                                                     |
+                                                     |姓氏
+                                                     |姓x
+                                                     |氏s
+                                                     |xs
+                                                     |姓氏
                                                      |
                                                      |
                                                      |
